@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BankAccount</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="txt_account_types">Tipos de Conta:</string>
+    <string name="rb_normal">Conta Normal</string>
+    <string name="rb_savings">Conta Poupança</string>
+    <string name="rb_special">Conta Especial</string>
+    <string name="txt_data">Dados:</string>
+    <string name="cb_query">Consulta</string>
+    <string name="et_owner_name">Proprietário</string>
+    <string name="et_number">Número</string>
+    <string name="et_income_day">Dia do rendimento</string>
+    <string name="et_limit">Limite</string>
+    <string name="bt_create">Criar Conta</string>
+    <string name="bt_query">Consultar</string>
+    <string name="rb_withdraw">Saque</string>
+    <string name="rb_deposit">Depósito</string>
+    <string name="et_value">Valor (R$)</string>
+    <string name="bt_operation">Realizar</string>
+    <string name="et_income">Taxa de Rendimento (%)</string>
+    <string name="bt_income">Calcular</string>
+    <string name="txt_balance_prefix">R$</string>
+    <string name="withdraw_invalid_value_exception">"Valor para saque inválido!"</string>
+    <string name="withdraw_insufficient_balance_exception">Saldo insuficiente!</string>
+    <string name="withdraw_insufficient_limit_exception">Limite insuficiente!</string>
+    <string name="deposit_invalid_value_exception">Valor para depósito inválido!</string>
+    <string name="income_invalid_value_exception">Taxa de rendimento inválida!</string>
+    <string name="txt_error">Erro!</string>
+    <string name="account_not_found_error">Conta não encontrada!</string>
+    <string name="invalid_account_number_dialog">Número de conta inválido!</string>
+    <string name="invalid_account_owner_dialog">Proprietário da conta inválido!</string>
+    <string name="invalid_account_income_day_dialog">Dia de rendimento inválido!</string>
+    <string name="invalid_account_limit_dialog">Limite inválido!</string>
+</resources>
